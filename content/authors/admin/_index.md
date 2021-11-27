@@ -66,4 +66,4 @@ highlight_name: true
 
 I have several years of experience working on large scale machine-learning and data analysis tasks (AutoML platform, XAI, Big Data, Recommender systems, Time series analysis, Representation learning) in various environments including academic research, as well as industry. I love to build end to end systems/services that solve real world engineering problems. I am currently building infrastructure free smartphone based indoor positioning system. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Akash.pdf" "newtab" >}}CV{{< /staticref >}}.
