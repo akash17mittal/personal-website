@@ -23,27 +23,42 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Engineer
-    company: Samsung Research Headquarters
-    company_url: ''
+    company: Samsung Research HQ
+    company_url: 'https://research.samsung.com/'
     company_logo: samsung
     location: Seoul, South Korea
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Built Indoor Localization System for location based services in retail stores.
+        * Explanable AI, Recommender Systems, Big Data Healthcare Analytics
         
   - title: Research Internship
     company: National University of Singapore
-    company_url: ''
+    company_url: 'https://www.nus.edu.sg/'
     company_logo: nus
     location: Singapore
     date_start: '2019-07-10'
     date_end: '2019-05-10'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Built and Deployed OD Engine for Vehicle Routing Problem.
+
+  - title: Research Internship
+    company: Samsung Research HQ
+    company_url: 'https://research.samsung.com/'
+    company_logo: samsung
+    location: Seoul, South Korea
+    date_start: '2018-07-10'
+    date_end: '2018-05-10'
+    description: Developed continuous learning ML data pipeline.
+
+  - title: Research Internship
+    company: Purdue University
+    company_url: 'https://www.purdue.edu/'
+    company_logo: purdue
+    location: Indiana, USA
+    date_start: '2017-07-10'
+    date_end: '2017-05-10'
+    description: Built automatic gym exercise counting system.
 
 design:
   columns: '2'
