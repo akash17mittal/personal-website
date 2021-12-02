@@ -1,11 +1,19 @@
 ---
 title: INNAV
 subtitle: Indoor Navigation System for Visually Impaired People
-date: 2021-11-28T08:34:58.256Z
+date: 2021-12-02T01:02:27.923Z
+summary: INNAV helps visually impaired people navigating inside indoor
+  environments. It uses BLE beacons and WiFi signals to locate the user.
 draft: false
 featured: false
 links:
-  - icon: ""
+  - icon: youtube
+    url: https://www.youtube.com/watch?v=Tt43CF1VcD8
+    icon_pack: fab
+    name: Demo
+  - icon_pack: fab
+    icon: youtube
+    name: UI
     url: https://www.youtube.com/watch?v=AB-1UrHsZsY
 image:
   filename: featured
