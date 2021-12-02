@@ -1,6 +1,6 @@
 ---
 title: Gym Management System
-date: 2021-12-02T11:01:26.273Z
+date: 2019-05-15T11:01:26.273Z
 summary: It helps gym owners manage their day to day gym operations. Some of the
   key features include "Record Fees", "Send Fee Reminders", and "Announcements"
 draft: false
