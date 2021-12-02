@@ -63,7 +63,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I have several years of experience working on large scale machine learning, data analysis tasks (AutoML platform, XAI, Big Data, Recommender systems, Time series analysis, Representation learning), and building end-user products in various environments including academic research, as well as industry. I love to develop end-to-end systems/services that solve real-world engineering problems. I am passionate about solving the problems in the area of Healthcare, Education, and Accessibility.
+Over the past few years, I have built and deployed end-to-end systems spanning multiple disciplines like Mobile Sensing, Computer Vision, Deep Learning for graphs, Explainable AI, and Big Data in various environments including academic research, as well as industry. I am passionate about solving the problems in the area of Healthcare, Education, and Accessibility ussing technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Akash.pdf" "newtab" >}}CV{{< /staticref >}}.
