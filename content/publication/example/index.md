@@ -1,79 +1,55 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: There has been an increased interest in discovering heuristics for
+  combinatorial problems on graphs through machine learning. While existing
+  techniques have primarily focused on obtaining high-quality solutions,
+  scalability to billion-sized graphs has not been adequately addressed. In
+  addition, the impact of a budget-constraint, which is necessary for many
+  practical scenarios, remains to be studied. In this paper, we propose a
+  framework called GCOMB to bridge these gaps. GCOMB trains a Graph
+  Convolutional Network (GCN) using a novel probabilistic greedy mechanism to
+  predict the quality of a node. To further facilitate the combinatorial nature
+  of the problem, GCOMB utilizes a Q-learning framework, which is made efficient
+  through importance sampling. We perform extensive experiments on real graphs
+  to benchmark the efficiency and efficacy of GCOMB. Our results establish that
+  GCOMB is 100 times faster and marginally better in quality than
+  state-of-the-art algorithms for learning combinatorial algorithms.
+  Additionally, a case-study on the practical combinatorial problem of Influence
+  Maximization (IM) shows GCOMB is 150 times faster than the specialized IM
+  algorithm IMM with similar quality.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Sahil Manchanda
+  - admin
+  - Anuj Dhawan
+  - Sourav Medya
+  - Sayan Ranu
+  - Ambuj Singh
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: In *NeurIPS 2020*
+url_source: ""
+url_video: ""
+publication: In *Advances in Neural Information Processing Systems 33*
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+title: "GCOMB: Learning Budget-constrained Combinatorial Algorithms over
+  Billion-sized Graphs"
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: ""
 ---
 
 {{% callout note %}}
