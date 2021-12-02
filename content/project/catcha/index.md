@@ -8,7 +8,7 @@ summary: "**Catcha** gamifies the experience of shopping in offline retail
 draft: false
 featured: false
 image:
-  filename: tmp_1638426894879.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
