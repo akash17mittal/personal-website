@@ -7,7 +7,7 @@ tags:
   - misc
 links:
   - url: https://dss-iitd.herokuapp.com/
-    name: ""
+    name: "Web Service"
     icon_pack: far
 image:
   filename: featured.png

@@ -29,8 +29,6 @@ content:
     tag: '*'
   - name: Prototype
     tag: prototype
-  - name: Research
-    tag: research
   - name: Deployment
     tag: deploy
   - name: Miscellaneous
