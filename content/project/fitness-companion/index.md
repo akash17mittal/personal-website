@@ -14,7 +14,7 @@ links:
     icon_pack: fab
     icon: youtube
 image:
-  filename: featured
+  filename: tmp_1638426827473.jpg
   focal_point: Smart
   preview_only: false
 ---
