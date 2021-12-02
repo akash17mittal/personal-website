@@ -1,5 +1,5 @@
 ---
-title: BRANULAR
+title: Branular
 subtitle: An interactive brain study tool
 date: 2021-12-02T01:17:03.903Z
 summary: Branular helps exploring the different parts of the brain in an
