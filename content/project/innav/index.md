@@ -1,7 +1,7 @@
 ---
 title: InNav
 subtitle: Indoor Navigation System for Visually Impaired People
-date: 2021-12-02T01:02:27.923Z
+date: 2016-07-15T01:02:27.923Z
 summary: "**InNav** helps visually impaired people navigate inside indoor
   environments using audio-based directions. It uses BLE beacons and WiFi
   signals to locate the user and geomagnetism for estimating heading direction."
