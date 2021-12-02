@@ -12,7 +12,7 @@ featured: false
 links:
   - url: https://www.youtube.com/watch?v=2xBJIdDBMzE
     name: Demo
-    icon_pack: far
+    icon_pack: fab
     icon: youtube
 image:
   filename: featured
