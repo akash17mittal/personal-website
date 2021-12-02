@@ -8,7 +8,7 @@ summary: "**InNav** helps visually impaired people navigate inside indoor
 draft: false
 featured: false
 tags:
-  - deploy
+  - prototype
 links:
   - icon: youtube
     url: https://www.youtube.com/watch?v=Tt43CF1VcD8
