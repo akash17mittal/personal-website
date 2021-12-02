@@ -7,7 +7,7 @@ featured: false
 links:
   - url: https://www.youtube.com/watch?v=TuxIsRUnF30
     name: Demo
-    icon_pack: far
+    icon_pack: fab
     icon: youtube
 image:
   filename: featured
