@@ -9,7 +9,7 @@ summary: "**Note Z** helps in taking notes while recording the video. This is
 draft: false
 featured: false
 image:
-  filename: tmp_1638426907249.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
