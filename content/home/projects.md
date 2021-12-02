@@ -31,7 +31,10 @@ content:
     tag: prototype
   - name: Research
     tag: research
-
+  - name: Deployment
+    tag: deploy
+  - name: Miscellaneous
+    tag: misc
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
