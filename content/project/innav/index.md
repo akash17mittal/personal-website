@@ -18,7 +18,7 @@ links:
     name: UI
     url: https://www.youtube.com/watch?v=AB-1UrHsZsY
 image:
-  filename: featured
+  filename: tmp_1638426885793.jpg
   focal_point: Smart
   preview_only: false
 ---
