@@ -34,6 +34,6 @@ highlight_name: true
 title: Akash Mittal
 email: ""
 ---
-Over the past few years, I have built and deployed end-to-end systems spanning multiple disciplines like **Mobile Sensing, Computer Vision, Deep Learning for graphs, Explainable AI, and Big Data** in various environments including academic research, as well as industry. I am passionate about solving the problems in the area of **Healthcare, Education, and Accessibility** using technology.
+I am a Research Engineer at Samsung Research, Seoul. Over the past few years, I have built and deployed end-to-end systems spanning multiple disciplines like **Mobile Sensing, Computer Vision, Deep Learning for graphs, Explainable AI, and Big Data** in various environments including academic research, as well as industry. I am passionate about solving the problems in the area of **Healthcare, Education, and Accessibility** using technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Akash.pdf" "newtab" >}}CV{{< /staticref >}}.
