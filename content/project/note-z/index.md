@@ -1,9 +1,9 @@
 ---
 title: Note Z
-subtitle: An innovative note taking application for foldable phones
+subtitle: "An innovative note taking application for foldable phones "
 date: 2020-08-15T04:34:20.844Z
-summary: "**Note Z** is a video note-taking application designed specifically
-  for foldable phones."
+summary: "**Note Z** is a note-taking application while recording the video
+  **simultaneously**. It is designed specifically for foldable phones."
 draft: false
 featured: false
 tags:
