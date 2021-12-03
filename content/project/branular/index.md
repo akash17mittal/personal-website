@@ -2,7 +2,8 @@
 title: Branular
 subtitle: An interactive brain study tool
 date: 2016-12-31T01:17:03.903Z
-summary: "**Branular** helps explore the different parts of the brain interactively."
+summary: "**Branular** is a windows application built in Unity 3D that helps
+  explore the different parts of the brain interactively."
 draft: false
 featured: false
 tags:
