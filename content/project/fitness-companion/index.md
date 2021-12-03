@@ -2,8 +2,9 @@
 title: Gym Companion
 subtitle: An automatic gym exercise counting system using surveillance cameras
 date: 2017-07-20T01:26:22.780Z
-summary: "**Gym Companion** helps you track the workouts in the gym
-  automatically without using any wearables."
+summary: "**Gym Companion** utilizes surveillance cameras to help you track the
+  workouts in the gym automatically using state-of-the-art computer vision
+  algorithms."
 draft: false
 featured: false
 tags:
