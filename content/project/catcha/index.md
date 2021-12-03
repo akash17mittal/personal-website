@@ -3,9 +3,9 @@ title: Catcha
 subtitle: New shopping experience in offline retail stores
 date: 2021-10-21T04:54:19.851Z
 summary: "**Catcha** gamifies the shopping experience in offline retail stores.
-  It is a location-driven Augmented Reality based application. Catcha helps earn
-  the points while shopping and reminds you of the promotion items through audio
-  cues in store based on the location."
+  It utilizes on-device infrastructure free indoor positioning technology and
+  Augmented Reality to provide a new shopping experience to the users in offline
+  retail stores."
 draft: false
 featured: false
 tags:
