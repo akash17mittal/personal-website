@@ -1,8 +1,7 @@
 ---
 title: Gym Management System
 date: 2019-05-15T11:01:26.273Z
-summary: It helps gym owners manage their day to day gym operations. Some of the
-  key features include "Record Fees", "Send Fee Reminders", and "Announcements"
+summary: It helps gym owners manage their day to day gym operations.
 draft: false
 featured: false
 tags:
@@ -21,3 +20,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+This system is aimed at gym owners to manage all the gym operations. Some of the key features include
+
+* Keeping track of users and their fees.
+* Sending fee reminders.
+* Sending Gym announcements to all the users.
+
+The system is being used in a gym for more than 2 years now and has resulted in a significant increase in the revenue and efficient operation of the gym.
+
+Refer to the Github repository and feel free to use the app for your gym :)
