@@ -19,3 +19,5 @@ image:
   preview_only: false
 ---
 **Branular** is a windows application built in Unity 3D. The 3D model of the brain is created from the segmented MRI images. The tool is aimed at medical students to study the brain interactively. One can locate the internal part of the brain by peeling off the external layers in an animated way to better understand that part in the context of the surrounding parts. Also, Branular helps surgeons simulate the pinpoint surgery before performing the surgery on a patient.
+
+Watch the cool demo for better understanding :)
