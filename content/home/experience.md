@@ -40,7 +40,7 @@ experience:
     location: Singapore
     date_start: '2019-07-10'
     date_end: '2019-05-10'
-    description: Built and Deployed OD Engine for Vehicle Routing Problem.
+    description: Built and Deployed OD (Origin to Desination path) Engine for Vehicle Routing Problem.
 
   - title: Research Internship
     company: Samsung Research HQ
