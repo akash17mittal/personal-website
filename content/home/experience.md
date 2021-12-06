@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         * Built Indoor Localization System for location based services in retail stores.
-        * Explanable AI, Recommender Systems, Big Data Healthcare Analytics
+        * Worked on Explanable AI, Recommender Systems, Big Data Healthcare Analytics.
         
   - title: Research Internship
     company: National University of Singapore
