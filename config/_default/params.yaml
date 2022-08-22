@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -21,14 +21,14 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: akashmittal1798@gmail.com
-phone: +82-10-4039-0117
+phone: +1-447-902-1250
 address:
-  city: Seoul
-  region: South Korea
-  country_code: KR
+  city: Champaign
+  region: Illinois
+  country_code: US
 coordinates:
-  latitude: '37.5665'
-  longitude: '126.9780'
+  latitude: '40.1146258'
+  longitude: '-88.3121289'
   
 
 # Site header
@@ -38,7 +38,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
