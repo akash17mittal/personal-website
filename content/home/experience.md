@@ -28,7 +28,7 @@ experience:
     company_logo: samsung
     location: Seoul, South Korea
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: |2-
         * Built Indoor Localization System for location based services in retail stores.
         * Worked on Explanable AI, Recommender Systems, Big Data Healthcare Analytics.

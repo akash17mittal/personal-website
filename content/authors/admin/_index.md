@@ -1,6 +1,4 @@
 ---
-role: Research Engineer
-bio: My research interests include AI, machine leaning and mobile sensing.
 interests:
   - Artificial Intelligence
   - Machine Learning
@@ -21,9 +19,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/akashmittal1798/
-organizations:
-  - name: Samsung Reseach HQ, Seoul
-    url: https://research.samsung.com/
 education:
   courses:
     - course: B.Tech in Computer Science and Engineering
