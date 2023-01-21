@@ -24,6 +24,9 @@ education:
     - course: B.Tech in Computer Science and Engineering
       institution: Indian Institute of Technology, Delhi
       year: 2019
+    - course: MS in Computer Science
+      institution: University of Illinois, Urbana-Champaign
+      year: 2024
 superuser: true
 highlight_name: true
 title: Akash Mittal
