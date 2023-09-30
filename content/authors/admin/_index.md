@@ -21,11 +21,11 @@ social:
     link: https://www.linkedin.com/in/akashmittal1798/
 education:
   courses:
-    - course: B.Tech in Computer Science and Engineering
-      institution: Indian Institute of Technology, Delhi
+    - course: Indian Institute of Technology (IIT), Delhi
+      institution: B.Tech in Computer Science and Engineering
       year: 2019
-    - course: MS in Computer Science
-      institution: University of Illinois, Urbana-Champaign
+    - course: University of Illinois, Urbana-Champaign (UIUC)
+      institution: MS in Computer Science 
       year: 2024
 superuser: true
 highlight_name: true
