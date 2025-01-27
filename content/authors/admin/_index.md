@@ -2,6 +2,7 @@
 interests:
   - Artificial Intelligence
   - Machine Learning
+  - Data systems
   - Mobile Sensing
 social:
   - icon: envelope
